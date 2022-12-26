@@ -110,7 +110,13 @@ body {
   cursor: pointer;
   color: rgba(229, 229, 229, 0.737);
 }
-
+#current-location-button {
+  width: 10px;
+  border: none;
+  background: white;
+  cursor: pointer;
+  color: blueviolet;
+}
 #city-search-bar input {
   background: transparent;
   border: none;
