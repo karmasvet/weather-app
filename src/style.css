@@ -116,6 +116,7 @@ body {
   background: white;
   cursor: pointer;
   color: blueviolet;
+  align-items: center;
 }
 #city-search-bar input {
   background: transparent;
